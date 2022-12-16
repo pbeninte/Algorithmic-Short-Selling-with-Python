@@ -30,7 +30,7 @@ Test your trading strategies to limit risk and increase profits.
 ## What you will learn
 
 - Develop the mindset required to win the infinite, complex, random game called the stock market
-- Demystify short selling in order to generate alpa in bull, bear, and sideways markets
+- Demystify short selling in order to generate alpha in bull, bear, and sideways markets
 - Generate ideas consistently on both sides of the portfolio
 - Implement Python source code to engineer a statistically robust trading edge
 - Develop superior risk management habits
